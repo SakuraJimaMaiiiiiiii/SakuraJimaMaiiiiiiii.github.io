@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Northwestern Polytechnical University, School of Aeronautics"
-date: 2019-9~2023-06
+date: 2019-9
 location: "Xi'an, China"
 ---
 
