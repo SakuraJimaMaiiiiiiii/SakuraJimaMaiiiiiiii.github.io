@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Normal Courses education"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Northwestern Polytechnical University, School of Aeronautics"
+date: 2019-9~2023-06
+location: "Xi'an, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
