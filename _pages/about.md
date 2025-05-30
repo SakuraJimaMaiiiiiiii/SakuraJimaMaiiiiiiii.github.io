@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Introduction"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## About Me
 
 Hi there! I'm **Qiang YuDong**, a master's student in **Control Science and Engineering** at **Northwestern Polytechnical University**. My research interests focus on **reinforcement learning** and **UAV path planning**.
 
