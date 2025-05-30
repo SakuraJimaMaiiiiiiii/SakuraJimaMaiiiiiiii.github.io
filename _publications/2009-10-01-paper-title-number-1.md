@@ -6,9 +6,17 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://journals.sagepub.com/doi/abs/10.1177/14759217231203240'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+# High-fidelity fault signature extraction of rolling bearings via nonconvex regularized sparse representation enhanced by flexible analytical wavelet transform
+
+## Abstract:
+This paper focuses on the extraction of high-fidelity fault signatures in rolling bearings using a novel nonconvex regularized sparse representation method. The approach is enhanced by a flexible analytical wavelet transform, providing a more accurate and reliable fault detection mechanism in industrial applications. The study shows significant improvements over traditional methods in terms of both accuracy and computational efficiency.
+
+## Article URL:
+You can read the full paper on the publisher's website by following this [link](https://journals.sagepub.com/doi/abs/10.1177/14759217231203240).
+
+## Citation:
+Your Name, You. (2009). &quot;High-fidelity fault signature extraction of rolling bearings via nonconvex regularized sparse representation enhanced by flexible analytical wavelet transform.&quot; <i>Journal 1</i>. 1(1).
